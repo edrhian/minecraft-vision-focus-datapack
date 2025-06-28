@@ -6,7 +6,7 @@ A simple datapack that adds a gadget to the game that allows the player to see e
 
 ## Instalation
 
-Move the "Vision Focus (DP)" to your world datapack folder
+Move the "vision_focus_dp.zip" to your world datapack folder and open your minecraft world
 
 ## Crafting Recipe
 
