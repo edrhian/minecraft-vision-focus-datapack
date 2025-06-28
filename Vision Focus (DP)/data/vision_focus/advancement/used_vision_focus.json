@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "used_wand_sword":{
+            "trigger": "minecraft:using_item",
+            "conditions": {
+                "item": {
+                    "items": "compass",
+                    "predicates": {
+                        "custom_data": {"vision_focus_trigger":true}
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "vision_focus:used_item"
+    }
+}
